@@ -13,6 +13,7 @@ function App() {
       <Container className="mb-4">
         <Routes>
           <Route path="/" element={<Store />} />
+       
         </Routes>
       </Container>
     </ShoppingCartProvider>
